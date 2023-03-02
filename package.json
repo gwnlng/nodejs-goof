@@ -15,7 +15,7 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "color-support": "1.1.3",
+    "tap": "^11.1.3",
     "@npmcli/disparity-colors": "3.0.0"
   },
   "devDependencies": {
