@@ -17,6 +17,7 @@
   "dependencies": {
     "@npmcli/disparity-colors": "3.0.0",
     "color-support": "^1.1.3",
+    "knex": "^2.3.0",
     "snyk-request-manager": "^1.8.0"
   },
   "devDependencies": {
