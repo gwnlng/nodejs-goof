@@ -208,3 +208,4 @@ When the wizard is done, restart the application and run the exploits again to c
 ## Adding vulns
 Goof project again
 Goof line2
+Goof line3
